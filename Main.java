@@ -5,6 +5,11 @@ public class Main {
 
     @Override
     public String toString() {
-        return "hello";
+        return super.toString();
+    }
+
+    @Override
+    public boolean equals(Object obj) {
+        return super.equals(obj);
     }
 }
