@@ -7,4 +7,8 @@ public class Main {
     public String toString() {
         return super.toString();
     }
+
+    public String tring() {
+        return "hello";}
+
 }
